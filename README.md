@@ -8,5 +8,3 @@ So to explore the app's functionality, run MainApp and SessionSimulator.py concu
 
 Enjoy!
 
-A neurofeedback programme for MindMedia Nexus-10 for research purposes at the School of Psychology and Neuroscience at University of Glasgow
-
