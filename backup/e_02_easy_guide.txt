@@ -1,0 +1,4 @@
+O1 works at 3-30 butterworth for O1 at e1+04 on the time domain, looks less promising
+in time frequency.
+O2 shows a strange linear presence in the time-frequency domain and is dirtier but
+discernable at e1-06
